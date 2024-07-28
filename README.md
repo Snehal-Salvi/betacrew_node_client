@@ -6,8 +6,10 @@ This project is a Node.js application that connects to a TCP server, requests pa
 
 To run this project locally, follow these steps:
 
-1. Clone the repository.
-2. Navigate to the project directory:
+1. Clone the github repository.
+   https://github.com/Snehal-Salvi/betacrew_node_client
+
+2. Navigate to the project directory.
 3. Make sure you have Node.js installed.
 4. Run the server file.
 
@@ -22,6 +24,8 @@ node main.js
 ```
 node client.js
 ```
+
+7. `output.json` file will generate with the collected data.
 
 ### Expected Behavior
 
