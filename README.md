@@ -2,6 +2,13 @@
 
 This project is a Node.js application that connects to a TCP server, requests packets, handles missing sequences, and generates a JSON file with the received data.
 
+## 📸 Application Demo
+
+
+https://github.com/user-attachments/assets/71379776-1df8-489d-a7a4-25a1610d793b
+
+
+
 ## 🛠️ Installation
 
 To run this project locally, follow these steps:
